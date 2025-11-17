@@ -16,10 +16,10 @@ MedInfo Assist 💙
 </p>
 
 <p align="center">
-  <a href="https://medinfo-assist.vercel.app" target="_blank">
+  <a href="https://medinfo-assist.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-MedInfo%20Assist-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
-  <a href="https://medinfo-assist-backend.onrender.com/docs" target="_blank">
+  <a href="https://medinfo-assist-backend.onrender.com/docs" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/API%20Docs-FastAPI-success?style=for-the-badge&logo=fastapi" alt="FastAPI Docs">
   </a><br/><br/>
   <img src="https://img.shields.io/badge/Next.js-16.0.0-black?logo=nextdotjs" alt="Next.js" />
@@ -111,16 +111,16 @@ Logo **BrainCircuit 🧠** : symbole de la synergie entre intelligence humaine e
 
 🚀 Mise à jour automatique à chaque `git push` :
 
-### Version en ligne
+### 🌍 Version en ligne
 
-🔹 **Frontend Web (Next.js)**  
-https://medinfo-assist.vercel.app/
+🔹 Frontend (Next.js)  
+<a href="https://medinfo-assist.vercel.app" target="_blank" rel="noopener noreferrer">🚀 Live Demo</a>
 
-🔹 **Backend API (FastAPI)**  
-https://medinfo-assist-backend.onrender.com/
+🔹 Backend API  
+<a href="https://medinfo-assist-backend.onrender.com/" target="_blank" rel="noopener noreferrer">🧠 FastAPI Endpoint</a>
 
-📘 **API Docs**  
-https://medinfo-assist-backend.onrender.com/docs
+🔹 Documentation API  
+<a href="https://medinfo-assist-backend.onrender.com/docs" target="_blank" rel="noopener noreferrer">📘 Swagger UI</a>
 
 ---
 
