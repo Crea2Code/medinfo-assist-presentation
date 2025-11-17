@@ -134,7 +134,9 @@ Logo **BrainCircuit 🧠** : symbole de la synergie entre intelligence humaine e
 Fondatrice de **Crea2Code – Agence Digitale & Formations**  
 💬 Passionnée par la pédagogie numérique, l’IA et la santé connectée.  
 📍 Rouen, France  
-🔗 LinkedIn : https://www.linkedin.com/in/sonia-chalal/
+ - 🔗<a href="https://www.crea2code.fr" target="_blank" rel="noopener noreferrer"> Crea2Code</a> 
+
+ - 🔗<a href="https://www.linkedin.com/in/sonia-chalal-46a16b1bb/" target="_blank" rel="noopener noreferrer"> LinkedIn</a> 
 
 ---
 
